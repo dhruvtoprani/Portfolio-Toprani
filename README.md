@@ -1,9 +1,10 @@
 # Portfolio Toprani
 
-Legacy portfolio implementation.
+An earlier portfolio implementation for exploring visual direction, storytelling, and project presentation.
 
-## Status
+## What it shows
 
-Archived/legacy. This repository is retained as an older portfolio iteration, not the current source of truth for Dhruv Toprani's public-facing portfolio.
-
-For profile positioning, prioritize the active portfolio/profile README and polished case-study projects around AI-native systems, applied ML, robotics/HRI, and product tooling.
+- Portfolio iteration
+- Design experimentation
+- Clearer project storytelling
+- Product thinking around user journeys and first impressions
